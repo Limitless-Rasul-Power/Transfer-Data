@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Backup Practice\Backup Practice\bin\Debug\Backup Practice.exe.config
+C:\Users\Admin\source\repos\Backup Practice\Backup Practice\bin\Debug\Backup Practice.exe
+C:\Users\Admin\source\repos\Backup Practice\Backup Practice\bin\Debug\Backup Practice.pdb
+C:\Users\Admin\source\repos\Backup Practice\Backup Practice\obj\Debug\Backup Practice.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Backup Practice\Backup Practice\obj\Debug\Backup Practice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Backup Practice\Backup Practice\obj\Debug\Backup Practice.exe
+C:\Users\Admin\source\repos\Backup Practice\Backup Practice\obj\Debug\Backup Practice.pdb
